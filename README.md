@@ -1,16 +1,16 @@
-# 👾 Space Invaders using Pygame
+# Space Invaders using Pygame
 
 A simple yet classic **Space Invaders** game built using **Pygame**, the popular Python library for game development. In this project, you play as a spaceship and shoot down enemy invaders before they reach you. The game showcases basic Pygame mechanics like sprite movement, collision detection, sound effects, and scoring.
 
 ---
 
-## 🚀 Features
+## Features
 
-- Player spaceship that moves left and right
-- Shooting bullets to destroy enemies
+- Player spaceship that moves left and right when initiated.
+- Shooting bullets to destroy enemies - Primary Game Mechanic.
 - Multiple enemy invaders with randomized positions
 - Collision detection between bullets and enemies
-- Scoring system
+- Dynamic Scoring system
 - Background music and sound effects
 - Game over condition when enemies reach the player
 
@@ -18,12 +18,12 @@ A simple yet classic **Space Invaders** game built using **Pygame**, the popular
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.11**
 - **Pygame**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 space-invaders/
@@ -39,7 +39,7 @@ space-invaders/
 └── README.md            # Project documentation
 ```
 
-## 🔧 Installation & Setup
+## Installation & Setup
 1. Clone the repository
 
 ```bash
@@ -58,11 +58,11 @@ pip install pygame
 python main.py
 ```
 
-## 🎯 Controls
+## Controls
 - Left Arrow / Right Arrow → Move player
 - Spacebar → Shoot bullet
 
-## 📌 To-Do / Future Enhancements
+## To-Do / Future Enhancements
 - Add levels and increasing difficulty
 - Power-ups or different types of enemies
 - High score tracking system
@@ -81,7 +81,7 @@ python main.py
 9. Restart or menu screen
 10. Code to support high scores or levels
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
-- Inspired by the classic Space Invaders arcade game and built as a part of learning game development using Pygame.
+- Inspired by the classic Space Invaders arcade game (Mostly Atari) and built as a part of learning game development using Pygame.
 
