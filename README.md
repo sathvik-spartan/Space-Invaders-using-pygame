@@ -16,7 +16,7 @@ A simple yet classic **Space Invaders** game built using **Pygame**, the popular
 
 ---
 
-## 🛠️ Technologies Used
+## Primary Technologies Used
 
 - **Python 3.11**
 - **Pygame**
