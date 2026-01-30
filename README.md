@@ -83,5 +83,5 @@ python main.py
 
 ## Acknowledgements
 
-- Inspired by the classic Space Invaders arcade game (Mostly Atari) and built as a part of learning game development using Pygame.
+> Inspired by the classic Space Invaders arcade game (Mostly Atari) and built as a part of learning game development using Pygame.
 
