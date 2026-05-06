@@ -20,7 +20,7 @@ The game showcases basic Pygame mechanics like sprite movement, collision detect
 
 ## Primary Technologies Used
 
-- **Python 3.11**
+- **Python ver.3.11**
 - **Pygame Library**
 
 ---
