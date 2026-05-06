@@ -33,7 +33,7 @@ space-invaders/
 ├── main.py              # Main game loop and logic
 ├── background.png       # Background image
 ├── player.png           # Player spaceship sprite
-├── enemy.png            # Enemy sprite
+├── enemy / ufo.png            # Enemy sprite
 ├── bullet.png           # Bullet sprite
 ├── background.wav       # Background music
 ├── laser.wav            # Shooting sound
