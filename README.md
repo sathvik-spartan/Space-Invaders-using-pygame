@@ -1,6 +1,8 @@
 # Space Invaders using Pygame
 
-A simple yet classic **Space Invaders** game built using **Pygame**, the popular Python library for game development. In this project, you play as a spaceship and shoot down enemy invaders before they reach you. The game showcases basic Pygame mechanics like sprite movement, collision detection, sound effects, and scoring.
+I built a simple yet classic **Space Invaders** game using **Pygame**, the popular Python library for game development.     
+In this interesting project, you play as a spaceship and shoot down as many enemy invaders as possible before they reach you.       
+The game showcases basic Pygame mechanics like sprite movement, collision detection, sound effects, and scoring.
 
 ---
 
@@ -19,7 +21,7 @@ A simple yet classic **Space Invaders** game built using **Pygame**, the popular
 ## Primary Technologies Used
 
 - **Python 3.11**
-- **Pygame**
+- **Pygame Library**
 
 ---
 
